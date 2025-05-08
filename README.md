@@ -38,12 +38,12 @@ Atualmente estou como Coordenador de Pesquisa e Inovação atuando na articulaç
 </p>
 
 
-✔️ Análises de Dados e Análises Espaciais.
-✔️ Visualização de dados geoespaciais em dashboards interativos.
-✔️ Implementação de sistemas GIS (Sistemas de Informação Geográfica).
-✔️ Consultoria para desenvolvimento de projetos.
-✔️ Treinamentos em softwares GIS (ArcGIS, QGIS).
-✔️ Elaboração de mapas temáticos.
+✔️ Análises de Dados e Análises Espaciais.\
+✔️ Visualização de dados geoespaciais em dashboards interativos.\
+✔️ Implementação de sistemas GIS (Sistemas de Informação Geográfica).\
+✔️ Consultoria para desenvolvimento de projetos.\
+✔️ Treinamentos em softwares GIS (ArcGIS, QGIS).\
+✔️ Elaboração de mapas temáticos.\
 
 
 ## 🫱🏼‍🫲🏿 Entre em contato comigo:
